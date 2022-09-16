@@ -1,0 +1,7 @@
+Cyclic Sort is very essential concept for interviews and is very easy to solve certain pattern questions.
+
+If the question contains an array for 0 to n-1 or 1 to n then use the cyclic sort
+
+For the theorey and explanation use KUNAL KUSHWAHA video. All the questions are also mentioned in the video
+
+https://leetcode.com/problems/first-missing-positive/submissions/
