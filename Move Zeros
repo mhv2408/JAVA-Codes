@@ -1,0 +1,5 @@
+https://leetcode.com/problems/move-zeroes/submissions/489203685/
+
+Steps:-
+1. Idea for this problem is to take 2 pointers and only fill the array for non zero elements first.
+2. Iterate through the array and fill the non-zero elements first and then fill the zeros.
