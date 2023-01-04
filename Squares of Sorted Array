@@ -1,0 +1,5 @@
+https://leetcode.com/problems/squares-of-a-sorted-array/submissions/870058875/
+
+Idea:- 
+1. as the array is already sorted in ascending order we only need to compare the first and last element for new array insertions(as there can also be negatives) 
+2. Once you do that you can add the smalles to the new array and move forward. 
